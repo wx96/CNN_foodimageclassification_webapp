@@ -1,0 +1,5 @@
+uploads/*.jpg
+uploads/*.png
+models/*.h5
+*.h5
+*.7z
